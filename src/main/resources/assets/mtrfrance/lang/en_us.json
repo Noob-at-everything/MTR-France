@@ -1,0 +1,11 @@
+{
+  "item.mtrfrance.t_plus" : "Ticket T+",
+  "item.mtrfrance.navigo" : "Pass Navigo",
+  "item.mtrfrance.navigo_easy" : "Pass Navigo Easy",
+  "item.mtrfrance.ticket_sncf_tres_vieux" : "Ticket SNCF Trés Vieux",
+  "item.mtrfrance.ticket_sncf_vieux" : "Ticket SNCF Vieux",
+  "item.mtrfrance.ticket_ter" : "Ticket TER",
+  "itemGroup.mtr_france": "MTR France",
+
+  "block.mtrfrance.ratp_block_1": "RATP"
+}

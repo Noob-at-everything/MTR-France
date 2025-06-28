@@ -1,0 +1,6 @@
+{
+  "parent": "block:cube_all",
+  "textures": {
+    "all": "mtrfrance:block/ratp_block_1"
+  }
+}
